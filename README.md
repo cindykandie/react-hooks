@@ -34,7 +34,7 @@ To get started, follow these steps:
 
 ### 1. useState
 
-- Description: Adds state to functional components.
+-  Adds state to functional components.
 - Example Code:
   ```jsx
   import React, { useState } from 'react';
@@ -60,28 +60,28 @@ To get started, follow these steps:
 
 ### 2. useEffect
 
-- Description: Performs side effects in functional components.
+ Performs side effects in functional components.
 
 
 ### 3. useContext
 
-- Description: Accesses data stored in React's Context API.
+- Accesses data stored in React's Context API.
 
 
 ### 4. useReducer
 
-- Description: Manages complex state logic in functional components.
+- Manages complex state logic in functional components.
 - Example Code:
 
 
 ### 5. useCallback
 
-- Description: Optimizes performance by memoizing functions.
+- Optimizes performance by memoizing functions.
 
 
 ### 6. useMemo
 
-- Description: Memoizes expensive computations to improve performance.
+ Memoizes expensive computations to improve performance.
 
 
 ### 7. useRef
@@ -91,17 +91,17 @@ To get started, follow these steps:
 
 ### 8. useImperativeHandle
 
-- Description: Customizes the instance value exposed through ref.
+-  Customizes the instance value exposed through ref.
 
 
 ### 9. useLayoutEffect
 
-- Description: Performs measurements or DOM manipulations before rendering.
+- Performs measurements or DOM manipulations before rendering.
 
 
 ### 10. Custom Hooks
 
-- Description: Create reusable logic for your specific application needs.
+- Create reusable logic for your specific application needs.
 
 
 ## Contributing 🤝
