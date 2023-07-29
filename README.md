@@ -2,6 +2,8 @@
 
 Welcome to the React Hooks Playground! This repository contains live code examples of various React hooks. You can explore and experiment with each hook to see how they work.
 
+This README includes all the instructions, examples, contributing guidelines, license information, and the live demo link. This will give you a comprehensive overview of the React Hooks Playground and how to use it.
+
 ## Getting Started
 
 To get started, follow these steps:
@@ -115,5 +117,3 @@ Feel free to contribute to this project by adding more examples, improving exist
 
 Happy hooking!
 ```
-
-The README markdown code includes all the instructions, examples, contributing guidelines, license information, and the live demo link. This will give users a comprehensive overview of the React Hooks Playground and how to use it.
