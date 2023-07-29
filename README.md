@@ -61,74 +61,48 @@ To get started, follow these steps:
 ### 2. useEffect
 
 - Description: Performs side effects in functional components.
-- Example Code:
-  ```jsx
-  // ... (Example code similar to the previous one)
-  ```
+
 
 ### 3. useContext
 
 - Description: Accesses data stored in React's Context API.
-- Example Code:
-  ```jsx
-  // ... (Example code similar to the previous one)
-  ```
+
 
 ### 4. useReducer
 
 - Description: Manages complex state logic in functional components.
 - Example Code:
-  ```jsx
-  // ... (Example code similar to the previous one)
-  ```
+
 
 ### 5. useCallback
 
 - Description: Optimizes performance by memoizing functions.
-- Example Code:
-  ```jsx
-  // ... (Example code similar to the previous one)
-  ```
+
 
 ### 6. useMemo
 
 - Description: Memoizes expensive computations to improve performance.
-- Example Code:
-  ```jsx
-  // ... (Example code similar to the previous one)
-  ```
+
 
 ### 7. useRef
 
 - Description: Allows direct access to DOM elements and stores mutable values.
-- Example Code:
-  ```jsx
-  // ... (Example code similar to the previous one)
-  ```
+
 
 ### 8. useImperativeHandle
 
 - Description: Customizes the instance value exposed through ref.
-- Example Code:
-  ```jsx
-  // ... (Example code similar to the previous one)
-  ```
+
 
 ### 9. useLayoutEffect
 
 - Description: Performs measurements or DOM manipulations before rendering.
-- Example Code:
-  ```jsx
-  // ... (Example code similar to the previous one)
-  ```
+
 
 ### 10. Custom Hooks
 
 - Description: Create reusable logic for your specific application needs.
-- Example Code:
-  ```jsx
-  // ... (Example code similar to the previous one)
-  ```
+
 
 ## Contributing 🤝
 
